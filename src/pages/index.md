@@ -3,16 +3,17 @@ title: Home - Creative Cloud
 description: This is the home page of Creative Cloud 
 ---
  
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Take control and extend Illustrator’s power
+![Illustrator Logo](images/ai_appicon_256.svg)
+
+# Extend the power of Illustrator
 
 Extend and enhance Adobe Illustrator to give users power and control over their vector image projects: create custom filters and effects, organize layers, optimize point data, and automate tasks. Import and export custom file formats and process images in bulk.
 
 * [Start building today](https://console.adobe.io/downloads/ai)
-
 
 
 
@@ -24,7 +25,6 @@ Extend and enhance Adobe Illustrator to give users power and control over their 
 ### Code the way you know
 
 Build panels in HTML, CSS and JavaScript. Build plug-ins in C++ in your favorite Windows or MacOS development tools. Build scripts in JavaScript, AppleScript, or VBScript.
-
 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
@@ -43,10 +43,10 @@ HTML-based panels for Illustrator can integrate across Creative Cloud apps and w
 
 ### Enhance and extend
 
-The Illustrator API opens the entire application to your control. Your extensions can add new functions, automate workflows, and drive Illustrator the way you want.
+The Illustrator API opens the entire application to your control. Your extensions can add new functions, and automate workflows.
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![alt text](images/S_IlluEditArtDirectly_96.svg)
 
@@ -55,7 +55,7 @@ The Illustrator API opens the entire application to your control. Your extension
 Parse and manipulate image data to apply custom effects. Select, manipulate, edit and enhance text. Even generate art automatically from point data and layers.
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![alt text](images/S_IlluCustomFileFormats_96.svg)
 
@@ -63,26 +63,12 @@ Parse and manipulate image data to apply custom effects. Select, manipulate, edi
 
 Add your own custom tools to the toolbar and functions to the menus. Create HTML-based panels that offer new capabilities and connect to other apps across the web.
 
-<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![alt text](images/S_IlluCepPlugin_96.svg)
-
-### Embed native controls
-
-Leverage native components of MacOS or Windows in your plug-ins and panels.
-
-<TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
-
-![alt text](images/S_IlluEnhanceUI_96.svg)
-
-### Roll your own file formats
-
-Add support for specialized file formats to import and export. Parse and process files in bulk.
-
-<TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![alt text](images/S_IlluCallbackfunctionsTimersEvents_96.svg)
-#### Use callback functions, timers, and events
+
+#### Use callback functions and events
 
 Use both scripting and actions to build automations, respond to events, and implement custom call-back functions.
 
@@ -93,7 +79,6 @@ Use both scripting and actions to build automations, respond to events, and impl
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
-A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
-Creative Cloud family of products.
+A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the Creative Cloud family of products.
 
 * [Subscribe to the newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html)
