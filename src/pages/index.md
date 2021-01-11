@@ -19,7 +19,7 @@ Extend and enhance Adobe Illustrator to give users power and control over their 
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/illustrator-feature1.jpg)
+![Stock image of a sketchbook and pencils](images/illustrator-feature1.jpg)
 
 
 ### Code the way you know
@@ -29,7 +29,7 @@ Build panels in HTML, CSS and JavaScript. Build plug-ins in C++ in your favorite
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/illustrator-feature2.png)
+![Illustrator file logo](images/illustrator-feature2.png)
 
 
 ### Connect across the web
@@ -39,7 +39,7 @@ HTML-based panels for Illustrator can integrate across Creative Cloud apps and w
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/illustrator-feature3.png)
+![Illustration of pen drawing vector lines](images/illustrator-feature3.png)
 
 ### Enhance and extend
 
@@ -48,7 +48,7 @@ The Illustrator API opens the entire application to your control. Your extension
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/S_IlluEditArtDirectly_96.svg)
+![Pencil pushing through paper icon](images/S_IlluEditArtDirectly_96.svg)
 
 ### Edit art directly
 
@@ -57,7 +57,7 @@ Parse and manipulate image data to apply custom effects. Select, manipulate, edi
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/S_IlluCustomFileFormats_96.svg)
+![Pencil and paper icon](images/S_IlluCustomFileFormats_96.svg)
 
 ### Enhance the UI
 
@@ -66,7 +66,7 @@ Add your own custom tools to the toolbar and functions to the menus. Create HTML
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![alt text](images/S_IlluCallbackfunctionsTimersEvents_96.svg)
+![Icon of arrows, a clock, and a bell](images/S_IlluCallbackfunctionsTimersEvents_96.svg)
 
 #### Use callback functions and events
 
