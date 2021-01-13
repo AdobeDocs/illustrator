@@ -9,9 +9,9 @@ description: This is the home page of Illustrator APIs
 
 ![Illustrator Logo](images/ai_appicon_256.svg)
 
-# Extend the power of Illustrator
+# Unleash the full potential of Illustrator to your users
 
-Extend and enhance Adobe Illustrator to give users power and control over their vector image projects: create custom filters and effects, organize layers, optimize point data, and automate tasks. Import and export custom file formats and process images in bulk.
+Extend and enhance Adobe Illustrator to give users power and control over their design projects: create custom filters and effects, organize layers, optimize point data, and automate tasks. Import and export custom file formats and process images in bulk.
 
 * [Start building today](https://console.adobe.io/downloads/ai)
 
