@@ -73,7 +73,7 @@ Add your own custom tools to the toolbar and functions to the menus. Create HTML
 Use both scripting and actions to build automations, respond to events, and implement custom call-back functions.
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
