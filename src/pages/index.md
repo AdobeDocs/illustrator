@@ -5,9 +5,9 @@ description: This is the home page of Illustrator APIs
  
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
-![Illustrator Logo](images/ai_appicon_256.svg)
+![Illustrator Logo](https://adobe.io/shared/icons/ai_appicon_64.svg)
 
 # Unleash the full potential of Illustrator to your users
 
@@ -75,7 +75,7 @@ Use both scripting and actions to build automations, respond to events, and impl
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
