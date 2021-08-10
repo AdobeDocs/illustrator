@@ -1,4 +1,12 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - ExtendScript
+  - SDKDocumentation
+  - C++
+  - Scripting
+  - JavaScript
 title: Creative Cloud - Illustrator
 description: This is the home page of Illustrator APIs 
 ---
