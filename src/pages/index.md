@@ -89,3 +89,5 @@ Use both scripting and actions to build automations, respond to events, and impl
 A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the Creative Cloud family of products.
 
 * [Subscribe to the newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html)
+
+<!-- Deploy! -->
