@@ -22,8 +22,7 @@ description: This is the home page of Illustrator APIs
 Extend and enhance Adobe Illustrator to give users power and control over their design projects: create custom filters and effects, organize layers, optimize point data, and automate tasks. Import and export custom file formats and process images in bulk.
 
 * [Start building today](https://developer.adobe.com/console/servicesandapis/ai)
-
-
+* [Where to find it](https://medium.com/adobetech/locate-and-download-the-photoshop-c-sdk-4f0e55f091ae?source=friends_link&sk=81164b58cf1d034ccfaa73275d7edb58)
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
